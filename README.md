@@ -47,6 +47,9 @@ I am a cybersecurity enthusiast with hands-on experience in penetration testing,
     <a href="https://drive.google.com/file/d/1L-Fk-pYlE4M-uu8FwkjWhzhiY9iO8m3q/view?usp=sharing">
         <img src="https://img.shields.io/badge/-CEH-007ACC?&style=for-the-badge&logo=EC-Council&logoColor=white" />
     </a>
+    <a href="https://drive.google.com/file/d/1sINfrdtvcYvv0ce5gd4AzBATtSaXzQpD/view?usp=sharing">
+        <img src="https://img.shields.io/badge/-CEH_Practical-0057A0?&style=for-the-badge&logo=EC-Council&logoColor=white" />
+    </a>
     <a href="https://drive.google.com/file/d/10rjIPSR7lzIx_Y8kGQtja1XqBVB4skXu/view?usp=sharing">
         <img src="https://img.shields.io/badge/-CCT-4D4D4D?&style=for-the-badge&logo=EC-Council&logoColor=white" />
     </a>
@@ -54,6 +57,7 @@ I am a cybersecurity enthusiast with hands-on experience in penetration testing,
         <img src="https://img.shields.io/badge/-ISO_27001_Associate-006400?&style=for-the-badge&logoColor=white" />
     </a>
 </div>
+
 
 
 ## Projects  
