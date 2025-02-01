@@ -57,5 +57,3 @@ I am a cybersecurity enthusiast with hands-on experience in penetration testing,
 - **[Course Collection Website](https://github.com/AtOM18/IIITDMJ_CourseCollection)** – Custom platform for managing university course information.  
 
 ---
-
-This version aligns with your resume, keeping it SOC-focused. Let me know if you need further refinements! 🚀
