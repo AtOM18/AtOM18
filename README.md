@@ -1,13 +1,11 @@
-Here’s your updated SOC Analyst portfolio template based on your resume:  
-
----
-
 # Hello, I'm Hardik Vardaan  
 <a href="https://www.linkedin.com/in/hardikvardaan/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 <a href="https://github.com/AtOM18"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>  
+<a href="https://app.hackthebox.com/profile/292021"><img src="https://img.shields.io/badge/-Hack_The_Box-9FEF00?&style=for-the-badge&logo=Hack%20The%20Box&logoColor=black" /></a>  
+ 
 
 ## Objective  
-I am a cybersecurity enthusiast with hands-on experience in penetration testing, network security, and Active Directory environments. My goal is to transition into a Security Operations Center (SOC) as a Tier 1 Analyst, leveraging my skills in log analysis, threat detection, and incident response.  
+I am a cybersecurity enthusiast with hands-on experience in penetration testing, network security, and Active Directory environments. My goal is to learn and gain experience as a Penetration Tester and Blue teaming, leveraging my skills in network penetration testing, log analysis, threat detection, and incident response.  
 
 ## Skills  
 
@@ -43,11 +41,20 @@ I am a cybersecurity enthusiast with hands-on experience in penetration testing,
 ## Certifications  
 
 <div>
-<img src="https://img.shields.io/badge/-CEH_Master-FF0000?&style=for-the-badge&logo=EC-Council&logoColor=white" />
-<img src="https://img.shields.io/badge/-CEH-007ACC?&style=for-the-badge&logo=EC-Council&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCT-4D4D4D?&style=for-the-badge&logo=EC-Council&logoColor=white" />
-<img src="https://img.shields.io/badge/-ISO_27001_Associate-006400?&style=for-the-badge&logoColor=white" />
-</div>  
+    <a href="https://drive.google.com/file/d/1RqoM09GESe-i7Fp5dE8uIDs9Mc6ZhlZc/view?usp=sharing">
+        <img src="https://img.shields.io/badge/-CEH_Master-FF0000?&style=for-the-badge&logo=EC-Council&logoColor=white" />
+    </a>
+    <a href="https://drive.google.com/file/d/1L-Fk-pYlE4M-uu8FwkjWhzhiY9iO8m3q/view?usp=sharing">
+        <img src="https://img.shields.io/badge/-CEH-007ACC?&style=for-the-badge&logo=EC-Council&logoColor=white" />
+    </a>
+    <a href="https://drive.google.com/file/d/10rjIPSR7lzIx_Y8kGQtja1XqBVB4skXu/view?usp=sharing">
+        <img src="https://img.shields.io/badge/-CCT-4D4D4D?&style=for-the-badge&logo=EC-Council&logoColor=white" />
+    </a>
+    <a href="https://www.skillfront.com/Badges/28079834850087">
+        <img src="https://img.shields.io/badge/-ISO_27001_Associate-006400?&style=for-the-badge&logoColor=white" />
+    </a>
+</div>
+
 
 ## Projects  
 
